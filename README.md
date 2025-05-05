@@ -1,4 +1,4 @@
-# Hi there, I'm Saran 👋
+# Hi there, I'm Jaya Saran Teja Pavuluri👋
 
 I'm a **Data Analyst** and **MS Business Analytics** student at Seattle University (Expected June 2025). I'm passionate about using data analysis and business intelligence to solve problems and drive strategy, applying my skills across various domains including GTM/Market Intelligence and Finance/Procurement.
 
