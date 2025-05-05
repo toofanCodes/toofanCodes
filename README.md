@@ -85,5 +85,14 @@ I'm a **Data Analyst** and **MS Business Analytics** student at Seattle Universi
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="100"  height="100" style="margin: 10px;" /> 
   </a> 
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer" title="Tableau"> 
+    <img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg" alt="Tableau" height="60"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer" title="Power BI"> 
+    <img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Analysts_PBI?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&qlt=99&fmt=png-alpha&fit=constrain" alt="Power BI"     width="100" height="100"/>
+  </a>
+  <a href="https://analytics.google.com/" target="_blank" rel="noreferrer" title="Google Analytics"> 
+    <img src="https://developers.google.com/static/analytics/images/terms/lockup_ic_Analytics_horiz_272px_clr.png" alt="Google Analytics" height="60"/>
+  </a>
 </p>
 
