@@ -24,7 +24,7 @@ I'm a **Data Analyst** and **MS Business Analytics** student at Seattle Universi
 ### 📫 Connect with Me
 
 * <a href="https://www.linkedin.com/in/saranpavuluri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> ([saranpavuluri](https://www.linkedin.com/in/saranpavuluri))
-* <a href = "https://public.tableau.com/app/profile/toofan.codes/" target="_blank"><img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg" width="50" height="30" alt="Tableau Public"></a> ([toofan.codes](https://public.tableau.com/app/profile/toofan.codes/))
+* <a href = "https://public.tableau.com/app/profile/toofan.codes/" target="_blank"><img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg" width="70" height="40" alt="Tableau Public"></a> ([toofan.codes](https://public.tableau.com/app/profile/toofan.codes/))
 * Feel free to explore my repositories below!
 
 ---
