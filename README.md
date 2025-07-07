@@ -28,7 +28,7 @@ https://weather-mood-movie.streamlit.app/
 | **Data Science & ML**      | Python (Pandas, Scikit-learn, XGBoost), Time-Series Forecasting (Prophet), Model Explainability (SHAP), NLP (Hugging Face Transformers), Anomaly Detection (Isolation Forest), Big Data (PySpark) |
 | **BI & Visualization**     | Tableau(Advanced), Power BI(basic), Amazon QuickSight(basic), Streamlit(intermediate), Looker Studio(intermediate), Microsoft Excel (Advanced), Airtables(intermediate)                         |
 | **Data Engineering & Cloud** | SQL (Advanced), AWS (Redshift, S3, Glue, EC2, RDS), ETL Pipeline Development, Data Modeling (Star Schema), Databases (PostgreSQL, MySQL) |
-| **Languages & Tools**      | Python, SQL, Git/GitHub, Docker, JIRA                                                                            |
+| **Languages & Tools**      | Python, R, SQL, Git/GitHub, Docker, JIRA                                                                            |
 | **Business Systems**       | Experience working with data from CRMs (Slate), ERPs (Colleague), Procurement systems (Jaggaer) and Syndicated Data Sources (S&P Global, Euromonitor, Lightcast)              |
 
 ---
