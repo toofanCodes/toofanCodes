@@ -7,8 +7,8 @@ I love building end-to-end solutions that tackle real-world business problems. M
 I’ve worked across **Go-to-Market strategy**, **financial and operational analytics**, and **supply chain optimization**, which gives me a big-picture perspective on how to use data to drive success throughout an organization.
 
 ## Most recent work: 
-Python deployed using Streamlit: https://weather-mood-movie.streamlit.app/
-R rendered using Quarto: https://toofancodes.github.io/makingViz-in-R/
+Developed using Python, deployed using Streamlit: https://weather-mood-movie.streamlit.app/  
+Coded in R, rendered using Quarto: https://toofancodes.github.io/makingViz-in-R/
 
 ---
 
