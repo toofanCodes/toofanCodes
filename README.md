@@ -1,4 +1,4 @@
-# Hi there, I'm Jaya Saran Teja Pavuluri (Saran) 👋
+# Hi there, I'm Saran 👋
 
 I'm a Analytical Engineer who likes to stay updated with rapidly evolving tech landscape. Being a recent **MS in Business Analytics** graduate from Seattle University, I am seeking roles where I can showcase my skills and contribute .
 
